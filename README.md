@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 👨🏻‍💻 I‘m 君惜, I‘m a coder.
+- 😄 I‘m 君惜, I‘m a coder.
 - 🌱 I’m familiar with Vue, React, JavaScript/TypeScript/Nodejs, Python.
 - 🔭 I‘m currently doing front-end development for an Internet company.
 
