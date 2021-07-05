@@ -1,4 +1,12 @@
 ### Hi there 👋
+- 👨🏻‍💻 I‘m 君惜, I‘m a coder.
+- 🌱 I’m familiar with Vue, React, JavaScript/TypeScript/Nodejs, Python.
+- 🔭 I‘m currently doing front-end development for an Internet company.
+
+### Contact me
+- website: https://xinlei3166.github.io
+- email: xinlei3166@gmail.com
+- addr: Beijing, China
 
 <img  src="https://github-readme-stats.vercel.app/api?username=xinlei3166&show_icons=true&icon_color=0366d6&bg_color=ffffff&hide_title=true" alt="github stats for xinlei3166">
 
