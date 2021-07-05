@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<img  src="https://github-readme-stats.vercel.app/api?username=xinlei3166&show_icons=true&icon_color=0366d6&bg_color=ffffff&hide_title=true" alt="github stats for xinlei3166">
+
 <!--
 **xinlei3166/xinlei3166** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
