@@ -4,7 +4,7 @@
 - 🔭 I‘m currently doing front-end development for an Internet company.
 
 ### Contact me
-- website: https://xinlei3166.github.io
+- website: https://xinlei3166.com
 - email: xinlei3166@gmail.com
 - addr: Beijing, China
 
@@ -30,5 +30,5 @@ Here are some ideas to get you started:
 
 | 微信 | 支付宝 |
 | :---: | :---: |
-| ![](https://xinlei3166.github.io/wxpay.png) | ![](https://xinlei3166.github.io/alipay.png) |
+| ![](https://xinlei3166.com/wxpay.png) | ![](https://xinlei3166.com/alipay.png) |
 -->
