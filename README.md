@@ -10,15 +10,14 @@
 
 <!-- <img  src="https://github-readme-stats.vercel.app/api?username=xinlei3166&show_icons=true&icon_color=0366d6&bg_color=ffffff&hide_title=true" alt="github stats for xinlei3166"> -->
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xinlei3166&theme=github)
+<p align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=xinlei3166&theme=github" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=xinlei3166&theme=github" />
+</p>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=xinlei3166&theme=github)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=xinlei3166&theme=github)
-
-![](https://streak-stats.demolab.com?user=xinlei3166)
-
-![](https://github-readme-activity-graph.vercel.app/graph?username=xinlei3166)
+<p align="center">
+  <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xinlei3166&theme=github" />
+</p>
 
 <!--
 **xinlei3166/xinlei3166** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
