@@ -12,6 +12,8 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xinlei3166&theme=github)
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=xinlei3166&theme=github)
+
 ![](https://streak-stats.demolab.com?user=xinlei3166)
 
 ![](https://github-readme-activity-graph.vercel.app/graph?username=xinlei3166)
