@@ -8,11 +8,12 @@
 - email: xinlei3166@gmail.com
 - addr: Beijing, China
 
-<p align="center">
-  <img  width="49%" src="https://github-readme-stats-xinlei3166.vercel.app/api?username=xinlei3166&show_icons=true&icon_color=0366d6&bg_color=ffffff&hide_title=true" alt="github stats for xinlei3166">
-  <!-- <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=xinlei3166&theme=github" /> -->
+<img src="https://github-readme-stats-xinlei3166.vercel.app/api?username=xinlei3166&show_icons=true&icon_color=0366d6&bg_color=ffffff&hide_title=true" alt="github stats for xinlei3166">
+
+<!-- <p align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=xinlei3166&theme=github" />
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=xinlei3166&theme=github" />
-</p>
+</p> -->
 
 <!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xinlei3166&theme=github" /> -->
 
